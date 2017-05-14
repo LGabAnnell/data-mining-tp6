@@ -8,4 +8,4 @@
 
 # Backtracking line search
 
-![Backtracking line search][https://github.com/LGabAnnell/data-mining-tp6/blob/master/backtracking_line_search.gif?raw=true]
+![Backtracking line search](https://github.com/LGabAnnell/data-mining-tp6/blob/master/backtracking_line_search.gif?raw=true)
